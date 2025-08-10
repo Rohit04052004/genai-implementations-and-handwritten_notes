@@ -9,7 +9,7 @@ This repository contains my personal learning journey through Generative AI conc
 Detailed notes covering key concepts in generative AI:
 - LLM app deployment using AWS, Git, and Docker
 - LLMOps with Google Vertex AI and AWS Bedrock
-- Building LLMs from scratch - core concepts and architecture
+- Gen-AI with LLMs,langchain, RAG, LlamaIndex 
 
 ### Projects and implementations
 
